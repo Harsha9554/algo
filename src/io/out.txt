@@ -1,16 +1,16 @@
-0000
-0001
-0010
-0011
-0100
-0101
-0110
-0111
-1000
-1001
-1010
-1011
-1100
-1101
-1110
-1111
+[]
+['goku']
+['light']
+['light', 'goku']
+['naruto']
+['naruto', 'goku']
+['naruto', 'light']
+['naruto', 'light', 'goku']
+['eren']
+['eren', 'goku']
+['eren', 'light']
+['eren', 'light', 'goku']
+['eren', 'naruto']
+['eren', 'naruto', 'goku']
+['eren', 'naruto', 'light']
+['eren', 'naruto', 'light', 'goku']
